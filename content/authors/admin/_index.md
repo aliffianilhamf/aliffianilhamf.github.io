@@ -49,23 +49,28 @@ education:
   - area: Informatics Engineering
     institution: Universitas Dian Nuswantoro
     date_start: 2022-09-17
-    date_end: 2026-09-17
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: "Read Thesis"
-      url: "https://example.com"
+    date_end: null
+    summary: |2-
+      - DNCC (Dian Nuswantoro Coding Club) Chairman 2024 - 2025
+      - Student Exchange Program at Universitas Gadjah Mada 2025 (3.70/4.00 GPA)
+      - Excellent Class Batch 2022 in Informatics Engineering
+
+      Courses included:
+      - Data Mining
+      - Computer Vision
+      - Machine Learning
+      - Artificial Intelligence
+      - Database
+      - Operating Systems
   - area: Computer & Network Engineering
     institution: SMK Negeri 2 Purwodadi
     date_start: 2018-07-01
     date_end: 2021-07-01
-    summary: |
-      GPA: 3.8/4.0
-
+    summary: |2-
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Programming Basics
+      - Cisco Networking
+      - System Administration Network
 work:
   - position: Research Assistant
     company_name: Bengkel Koding
@@ -75,9 +80,9 @@ work:
     date_end: ""
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Building real-time tracking and monitoring system
+      - Bimbingan Karir Assistant
+      - Research Assistant
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -87,31 +92,36 @@ skills:
       - name: Python
         description: ""
         percent: 80
-        icon: code-bracket
+        icon: python
       - name: Data Science
         description: ""
         percent: 100
         icon: chart-bar
       - name: C++
+        description:
+        percent: 40
+        icon: bug
+      - name: Javascript
         description: ""
         percent: 40
-        icon: circle-stack
-      - name: Javascripts
+        icon: code
+      - name: Conda
         description: ""
         percent: 40
-        icon: circle-stack
-      - name: Tailwind CSS
-        description: ""
-        percent: 40
-        icon: circle-stack
+        icon: gears
+
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Hiking
+      - name: Reading
         description: ""
         percent: 60
-        icon: person-simple-walk
+        icon: book-open
+      - name: Guitar
+        description: ""
+        percent: 40
+        icon: guitar
 
 languages:
   - name: Indonesian
@@ -127,15 +137,15 @@ awards:
   - title: AWS Academy Cloud Foundations
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: "2023-11-25"
-    awarder: Coursera
-    icon: coursera
+    awarder: AWS
+    icon: aws
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      This certificate was given by AWS after I completed ACF training and certification: AWS Academy Cloud Foundations, which covers basic cloud concepts to automatic scale-up and monitoring on AWS. I finished this course in approximately 80 hours.
   - title: Fundamentals Data Sciencetist
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: "2023-07-01"
-    awarder: edX
-    icon: edx
+    awarder: DICODING
+    icon: dicoding
     summary: |
       Learned:
       - Synthesize your own blockchain solutions

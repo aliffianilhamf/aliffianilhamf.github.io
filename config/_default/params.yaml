@@ -7,6 +7,7 @@
 appearance:
   mode: system
   color: emerald
+  icons: fontawesome
 
 # SEO
 marketing:
@@ -14,7 +15,7 @@ marketing:
     site_type: Person
     local_business_type: ""
     org_name: ""
-    description: "The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website."
+    description: "Aliffian Ilham Febriyana Personal Academic Website"
     twitter: "GetResearchDev"
   analytics:
     google_analytics: ""
@@ -33,16 +34,16 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    # show_theme_chooser: true
+    show_theme_chooser: false
     logo:
       text: "Aliffian Ilham"
 
 # Site footer
 footer:
   copyright:
-    notice: "© {year} Me. This work is licensed under {license}"
+    notice: "© 2025 - {year}. All rights reserved."
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
