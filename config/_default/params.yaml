@@ -14,9 +14,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ""
-    org_name: ""
-    description: "Aliffian Ilham Febriyana Personal Academic Website"
-    twitter: ""
+    org_name: "Aliffian Ilham Febriyana"
+    description: "Aliffian Ilham Febriyana - Computer Science Student"
   analytics:
     google_analytics: ""
     baidu_tongji: ""
@@ -42,7 +41,7 @@ header:
 footer:
   enable: true
   blox: "footer"
-  content: "© 2021 Aliffian Ilham Febriyana. All rights reserved."
+  content: "© 2024 Aliffian Ilham Febriyana. All rights reserved."
 
 # Localization
 locale:

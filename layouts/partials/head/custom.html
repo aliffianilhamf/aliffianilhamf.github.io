@@ -1,0 +1,23 @@
+<meta name="description" content="{{ .Site.Params.marketing.seo.description }}">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ .Site.Params.marketing.seo.description }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="{{ .Site.BaseURL }}images/preview.jpg"> <!-- Ubah sesuai gambar preview -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ .Site.Params.marketing.seo.description }}">
+<meta name="twitter:image" content="{{ .Site.BaseURL }}images/preview.jpg">
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "{{ .Site.Params.marketing.seo.site_type }}",
+      "name": "{{ .Site.Params.marketing.seo.org_name }}",
+      "url": "{{ .Permalink }}",
+      "description": "{{ .Site.Params.marketing.seo.description }}",
+      "author": {
+        "@type": "Person",
+        "name": "Aliffian Ilham Febriyana"
+      }
+    }
+    </script>

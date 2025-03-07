@@ -125,9 +125,9 @@ skills:
 
 languages:
   - name: Indonesian
-    percent: 100
+    percent:
   - name: English
-    percent: 50
+    percent:
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -145,14 +145,14 @@ awards:
     url: https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-01+V1
     date: "2025-10-16"
     awarder: NVIDIA
-    icon: nvidia
+    icon:
     summary: |
       This certificate was given by NVIDIA after I completed the Get Started with Deep Learning course. This course discusses how deep learning works through hands-on exercises in computer vision and natural language processing. I finished it in 7 hours.
   - title: Fundamentals Data Sciencetist
     url: https://www.dicoding.com/academies/615
     date: "2023-07-01"
     awarder: DICODING
-    icon: trace
+    icon:
     summary: |
       This certificate was given by DICODING Indonesia after I completed the Data science fundamentals course, which is an introduction to data science and its technology. I completed this course in 9.5 hours.
 ---
