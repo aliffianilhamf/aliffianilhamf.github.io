@@ -72,6 +72,17 @@ education:
       - Cisco Networking
       - System Administration Network
 work:
+  - position: Research Trainee
+    company_name: Kemendikti Saintek & UChicago
+    company_url: "https://pmdsu.kemdiktisaintek.go.id/garuda-ace/"
+    company_logo: ""
+    date_start: 2025-01-13
+    date_end: ""
+    summary: |2-
+      Responsibilities include:
+      - Learn about Computer Science and Research Methodology
+      - Research Trainee
+      - Interests in Operating Systems (HPC, Distributed Systems, Cloud Computing)
   - position: Research Assistant
     company_name: Bengkel Koding
     company_url: "https://bengkelkoding.dinus.ac.id/"
@@ -83,6 +94,17 @@ work:
       - Building real-time tracking and monitoring system
       - Bimbingan Karir Assistant
       - Research Assistant
+  - position: President of Dian Nuswantoro Computer Club
+    company_name: Dian Nuswantoro Computer Club
+    company_url: "https://dnccudinus.org/"
+    company_logo: ""
+    date_start: 2024-08-12
+    date_end: "2025-08-12"
+    summary: |2-
+      Responsibilities include:
+      - Manage the organization
+      - Organize events and workshops
+      - Build a community of students interested in technology
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
