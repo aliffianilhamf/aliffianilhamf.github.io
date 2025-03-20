@@ -1,5 +1,5 @@
 ---
-title: 📈 Improve your AI Skills, don't miss free courses & international certifications from Microsoft
+title: Improve your AI Skills, don't miss free courses & international certifications from Microsoft
 summary: This program provides AI training for 50,000 Indonesians at no selection and no cost through the Microsoft Learn platform.
 date: 2025-01-29
 authors:

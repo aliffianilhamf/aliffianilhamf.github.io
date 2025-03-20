@@ -123,38 +123,52 @@ skills:
         percent: 40
         icon: guitar
 
-languages:
-  - name: Indonesian
-    percent:
-  - name: English
-    percent:
+# languages:
+#   - name: Indonesian
+#     percent:
+#   - name: English
+#     percent:
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: AWS Academy Cloud Foundations
-    url: https://aws.amazon.com/training/awsacademy/
-    date: "2023-11-25"
-    awarder: AWS
-    icon: aws
-    summary: |
-      This certificate was given by AWS after I completed ACF training and certification: AWS Academy Cloud Foundations, which covers basic cloud concepts to automatic scale-up and monitoring on AWS. I finished this course in approximately 80 hours.
-  - title: NVIDIA Get Started With Deep Learning
-    url: https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-01+V1
-    date: "2025-10-16"
-    awarder: NVIDIA
+  - title: Research Trend 2025 Opportunities & Challenges for Students and Lecturers
+    url: https://drive.google.com/file/d/1EeBW8JaLlOdDD-s96FWnDZQz-0w7FaRo/view?usp=sharing
+    date: "2025-03-19"
+    awarder: UPT Perpustakaan dan Penerbitan UDINUS
     icon:
     summary: |
-      This certificate was given by NVIDIA after I completed the Get Started with Deep Learning course. This course discusses how deep learning works through hands-on exercises in computer vision and natural language processing. I finished it in 7 hours.
+      This certificate was awarded for my participation in the webinar Research Trend 2025: Opportunities & Challenges for Students and Lecturers which provides knowledge about research trends 2025 and how to use good research methodology.
   - title: Fundamentals Data Sciencetist
     url: https://www.dicoding.com/academies/615
-    date: "2023-07-01"
+    date: "2024-11-01"
     awarder: DICODING
     icon:
     summary: |
       This certificate was given by DICODING Indonesia after I completed the Data science fundamentals course, which is an introduction to data science and its technology. I completed this course in 9.5 hours.
+  - title: NVIDIA Get Started With Deep Learning
+    url: https://drive.google.com/file/d/1LTvEBgUKG5t04YKC2zvNbUEFESpuJHdg/view?usp=sharing
+    date: "2024-10-20"
+    awarder: NVIDIA
+    icon:
+    summary: |
+      This certificate was given by NVIDIA after I completed the Get Started with Deep Learning course. This course discusses how deep learning works through hands-on exercises in computer vision and natural language processing. I finished it in 7 hours.
+  - title: AWS Academy Cloud Foundations
+    url: https://drive.google.com/file/d/1nGecLcioCNbqNdURE07onEOoD1w_Y0OE/view?usp=sharing
+    date: "2024-06-09"
+    awarder: AWS
+    icon:
+    summary: |
+      This certificate was given by AWS after I completed ACF training and certification: AWS Academy Cloud Foundations, which covers basic cloud concepts to automatic scale-up and monitoring on AWS. I finished this course in approximately 80 hours.
+  - title: OpenCV Bootcamp
+    url: https://drive.google.com/file/d/1d9eum5WziEXdQZQYg7dTzqiC0EWICi4l/view?usp=sharing
+    date: "2024-03-13"
+    awarder: OpenCv
+    icon:
+    summary: |
+      This certificate is given by opencv university because of my participation in completing the opencv bootcamp course for approximately 100 hours. contains from basic computer vision to advanced level.
 ---
 
 ## About Me
