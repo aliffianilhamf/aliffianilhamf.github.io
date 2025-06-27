@@ -156,6 +156,13 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: System and AI Research Online Training Program
+    url: https://drive.google.com/file/d/1dkO3y8yQPPlkhu9M6ePaL1_mr09YuBKC/view?usp=sharing
+    date: "2025-06-30"
+    awarder: Department of Computer Science, The University of Chicago
+    icon:
+    summary: |
+      This certificate was awarded for my participation in the System and AI Research Online Training Program, which is a training program for students to learn about research methodology and how to collaborate with professor abroad.
   - title: Research Trend 2025 Opportunities & Challenges for Students and Lecturers
     url: https://drive.google.com/file/d/1EeBW8JaLlOdDD-s96FWnDZQz-0w7FaRo/view?usp=sharing
     date: "2025-03-19"
