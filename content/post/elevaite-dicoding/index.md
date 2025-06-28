@@ -36,3 +36,6 @@ then coppy your profil URL and submit it to the form register, Click the "Daftar
 You will receive an email confirmation once your registration has been approved.
 
 ## Did you find this page helpful? Consider sharing it 🙌
+
+<script async="async" data-cfasync="false" src="//pl27028832.profitableratecpm.com/1f1beb23e7e213df45ff710a5ab07dab/invoke.js"></script>
+<div id="container-1f1beb23e7e213df45ff710a5ab07dab"></div>
