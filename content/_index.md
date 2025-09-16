@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/AliffianResume.pdf
+        url: uploads/AliffianResume-1.pdf
     design:
       css_class: dark
       background:
