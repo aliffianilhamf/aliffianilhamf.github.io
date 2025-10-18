@@ -156,6 +156,13 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: AI Literacy for Everyone. Understand, Apply, Create
+    url: https://drive.google.com/file/d/1IXv5h5LCR71JH2glszoZS6HeuymW8Kp7/view?usp=sharing
+    date: "2025-10-19"
+    awarder: Bass Training Center & Consultant
+    icon:
+    summary: |
+      This certificate was awarded for my participation in the AI Literacy for Everyone: Understand, Apply, Create training which provides knowledge about artificial intelligence, Generative AI, and LLM concepts and how to apply them in real-world applications.
   - title: System and AI Research Online Training Program
     url: https://drive.google.com/file/d/1dkO3y8yQPPlkhu9M6ePaL1_mr09YuBKC/view?usp=sharing
     date: "2025-06-30"
